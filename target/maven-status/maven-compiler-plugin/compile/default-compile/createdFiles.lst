@@ -1,0 +1,7 @@
+com\books\service\BookService.class
+com\books\model\Book.class
+com\books\repository\BookRepository.class
+com\books\service\EmployeeClient.class
+com\books\controller\BookController.class
+com\books\BookMainApplication.class
+com\books\model\Employee.class
